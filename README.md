@@ -1,4 +1,4 @@
-# Este es mi curso de git, sientese y disfrute :)
+# Este es mi curso de git.
 
 Curso de git
 
